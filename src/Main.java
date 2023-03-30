@@ -3,6 +3,7 @@ import Game.SnakeGame;
 import javax.swing.*;
 
 public class Main {
+    // Main class
     public static void main(String[] args) {
         JFrame frame = new JFrame("SnakeAI");
         SnakeGame game = new SnakeGame();
